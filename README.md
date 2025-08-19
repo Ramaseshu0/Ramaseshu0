@@ -17,4 +17,4 @@
 
 📫 Reach me at:  
 - [LinkedIn](https://www.linkedin.com/in/rama-seshu/)  
-- 📧 [pramaseshu12345@gmail.com](mailto:pramaseshu12345@gmail.com)  
+- [Gmail](mailto:pramaseshu12345@gmail.com)  
