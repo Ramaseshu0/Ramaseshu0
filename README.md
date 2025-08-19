@@ -6,11 +6,15 @@
 
 🌱 Currently working on:  
 - Predictive modeling for healthcare (Diabetes & Cardiovascular Risk Projects)  
-- Data-driven storytelling with datasets  
+- Data-driven storytelling with retail datasets  
+- Applying statistical & ML methods (Logistic Regression, Random Forest, XGBoost, etc.)  
 
 🚀 Key Projects:  
 - [Early Detection of Type 2 Diabetes](link-to-repo)  
 - [Heart Disease Risk Prediction](link-to-repo)  
-- [Retail Sales Analysis](link-to-repo)  
+- [Retail Sales Analysis & Storytelling](link-to-repo)  
+- [ETL Pipeline with AWS & Reltio (Sample Project)](link-to-repo)  
 
-📫 Reach me at: [LinkedIn](rama-seshu) | [Email](pramaseshu12345@gmail.com)  
+📫 Reach me at:  
+- [LinkedIn](https://www.linkedin.com/in/rama-seshu/)  
+- 📧 [pramaseshu12345@gmail.com](mailto:pramaseshu12345@gmail.com)  
