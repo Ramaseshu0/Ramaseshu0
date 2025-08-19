@@ -13,4 +13,4 @@
 - [Heart Disease Risk Prediction](link-to-repo)  
 - [Retail Sales Analysis](link-to-repo)  
 
-📫 Reach me at: [LinkedIn](rama-seshu-linkedin) | [Email](pramaseshu12345@gmail.com)  
+📫 Reach me at: [LinkedIn](rama-seshu) | [Email](pramaseshu12345@gmail.com)  
