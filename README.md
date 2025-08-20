@@ -10,9 +10,9 @@
 - Applying statistical & ML methods (Logistic Regression, Random Forest, XGBoost, etc.)  
 
 🚀 Key Projects:  
-- [Early Detection of Type 2 Diabetes]([link-to-repo](https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes))  
-- [Heart Disease Risk Prediction]([link-to-repo](https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction))  
-- [Retail Sales Analysis & Storytelling]([link-to-repo](https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis))  
+- [Early Detection of Type 2 Diabetes](https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes)  
+- [Heart Disease Risk Prediction](https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction)  
+- [Retail Sales Analysis & Storytelling](https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis)  
 
 📫 Reach me at:  
 - [LinkedIn](https://www.linkedin.com/in/rama-seshu/)  
