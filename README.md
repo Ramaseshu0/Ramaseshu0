@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rama Seshu  
 
 🎓 Master's in Data Science @ University at Buffalo  
-💻 3+ years experience in Data Engineering & Analytics (Reltio, AWS, Informatica, Power BI)  
+💻 4+ years experience in Data Engineering & Analytics (Reltio, AWS, Informatica, Power BI)  
 📊 Skilled in Python, R, SQL, Machine Learning, and Cloud Data Pipelines  
 
 🌱 Currently working on:  
