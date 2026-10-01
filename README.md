@@ -1,6 +1,6 @@
 <div align="center">
 
-![Chinmaya Sri Rama Seshu Pasupuleti](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=Chinmaya%20Sri%20Rama%20Seshu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20MS%20Data%20Science%20%40%20UB%20%7C%20Cloud%20%26%20ETL%20Specialist&descAlignY=55&descSize=18)
+![Chinmaya Sri Rama Seshu Pasupuleti](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=Chinmaya%20Sri%20Rama%20Seshu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20MS%20Data%20Science%20%40%20UB%20%7C%20Cloud%20%26amp%3B%20ETL%20Specialist&descAlignY=55&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-seshu/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramaseshu@outlook.com)
